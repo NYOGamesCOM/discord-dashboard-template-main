@@ -23,35 +23,6 @@ This is a React application that serves as a dashboard for managing various tool
 - **Leveling System**: Manage user leveling and experience points.
 - **Music Player**: Integrate music playback functionalities.
 
-## Installation
-
-To set up the project locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone discord-dashboard-template.git
-
-2. Navigate to the project directory:
-
-    ```bash
-   cd discord-dashboard-template
-   ```
-
-3. Install the dependencies:
-    ```bash
-    npm install
-    ```
-
-4. Start the development server:
-
-    ```bash
-    npm start
-    ```
-
-5. Open your browser and navigate to ``http://localhost:3000``
-
-
 ## Usage
 This application is built using React Router for navigation between pages. You can access the following routes:
 
